@@ -125,7 +125,4 @@ MINMAX Estimate : 2993
 Input Board Position : xWBWWWBBWWxxxBWxWxxBBW Depth : 2
 Output Board Position : xWBWWWBBWWxxxBxxWWxBBW
 Positions evaluated by static estimation : 37
-MINMAX Estimate : 1170
- 
-We can see that the Improved Game produced a better step than the normal program as we can create a mill by moving W in 6g to 5f in next step where as there is no way to create a mill in normal program in future.
- 
+MINMAX Estimate : 1170 
